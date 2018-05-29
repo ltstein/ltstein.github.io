@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Projects and
+## [Udacity Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209)
+#### Term 1-Completed January 2018
+Project 1- Pick and Place (Kinematics)  
+[Report/Writeup](https://github.com/ltstein/RoboND-Kinematics-Project/blob/master/Kinematics-Pick-and-Place-Writeup.md)  
+[Repository](https://github.com/ltstein/RoboND-Kinematics-Project)  
 
-You can use the [editor on GitHub](https://github.com/ltstein/ltstein.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Project 2- Pick and Place (Perception-Traditional)  
+[Report/Writeup](https://github.com/ltstein/RoboND-Perception-Project/blob/master/3D_Perception_Writeup.md)  
+[Repository](https://github.com/ltstein/RoboND-Perception-Project)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Project 3- Follow Me (Perception-Deep Learning)  
+[Report/Writeup](https://github.com/ltstein/RoboND-DeepLearning-Project/blob/master/Deep-Learning-Writeup.md)  
+[Repository](https://github.com/ltstein/RoboND-DeepLearning-Project)  
 
-### Markdown
+#### Term 2-In Progress ~September 2018
+Robotic Systems Deployment (Neural Network Training and Inference)  
+[Report/Writeup](https://github.com/ltstein/Inference_Project/blob/master/Stein_inference_Report.pdf)  
+[Repository](https://github.com/ltstein/Inference_Project)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Where Am I? (Localization)  
+Report/Writeup  
+Repository  
 
-```markdown
-Syntax highlighted code block
+Map My World (Simultaneous Localization and Mapping)  
+Report/Writeup  
+Repository  
 
-# Header 1
-## Header 2
-### Header 3
+Pick and Place with Deep Learning (Deep Reinforcement Learning)  
+Report/Writeup  
+Repository  
 
-- Bulleted
-- List
+Home Service Robot (Path Planning and Navigation)  
+Report/Writeup  
+Repository  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+###### Completed December 2016
+Project code and reports from Udacity's Machine Learning Nanodegree
 
-[Link](url) and ![Image](src)
-```
+Project 1-Predicting Housing Prices in Boston (Modeling and Validation)  
+[Report/Writeup](https://github.com/ltstein/machine-learning-nd/P1-Modeling_and_Validation/Boston_Report.pdf)  
+[Repository](https://github.com/ltstein/machine-learning-nd/P1-Modeling_and_Validation)  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Project 2-Determining Student Intervention (Supervised Learning)  
+[Ipython Notebook](https://github.com/ltstein/machine-learning-nd/P2-Supervised_Learning/P2_Stein/student_intervention_Stein.ipynb)  
+[Repository](https://github.com/ltstein/machine-learning-nd/P2-Supervised_Learning)  
 
-### Jekyll Themes
+Project 3-Determining Customer Segments (Unsupervised Learning)  
+[Ipython Notebook](https://github.com/ltstein/machine-learning-nd/P3-Unsupervised_Learning/P3_stein/customer_segments.html)  
+[Repository](https://github.com/ltstein/machine-learning-nd/P3-Unsupervised_Learning)  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ltstein/ltstein.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Project 4-Training a smartcab to drive (Reinforcement Learning)  
+[Report/Writeup](https://github.com/ltstein/machine-learning-nd/P4-Reinforcement_Learning/Stein_Smartcab_Submisison/Smartcab_Project_Report.pdf)  
+[Repository](https://github.com/ltstein/machine-learning-nd/P4-Reinforcement_Learning)  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Capstone- Navigating a Maze (Robot Motion Planning)  
+[Report/Writeup](https://github.com/ltstein/machine-learning-nd/Capstone-Robot_Motion_Planning/Plot_and_Navigate_a_Virtual_Maze-Capstone_Submission/Plot_and_Navigate_a_Virtual_Maze_Project_Report.pdf)  
+[Repository](https://github.com/ltstein/machine-learning-nd/Capstone-Robot_Motion_Planning)
