@@ -1,4 +1,7 @@
-# Projects and
+Find more about my experience and work related projects on [LinkedIn](https://www.linkedin.com/in/lincoln-stein/)
+
+# Project Portfolio  
+
 ## [Udacity Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209)
 #### Term 1-Completed January 2018
 Project 1- Pick and Place (Kinematics)  
@@ -20,7 +23,7 @@ Robotic Systems Deployment (Neural Network Training and Inference)
 
 Where Am I? (Localization)  
 Report/Writeup  
-Repository  
+[Repository](https://github.com/ltstein/RoboND-Localization-Project)    
 
 Map My World (Simultaneous Localization and Mapping)  
 Report/Writeup  
@@ -35,9 +38,9 @@ Report/Writeup
 Repository  
 
 
-## [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
-###### Completed December 2016
-Project code and reports from Udacity's Machine Learning Nanodegree
+## [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)  
+Completed December 2016  
+Project code and reports from Udacity's Machine Learning Nanodegree  
 
 Project 1-Predicting Housing Prices in Boston (Modeling and Validation)  
 [Report/Writeup](https://github.com/ltstein/machine-learning-nd/P1-Modeling_and_Validation/Boston_Report.pdf)  
