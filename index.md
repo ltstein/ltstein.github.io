@@ -16,7 +16,7 @@ Project 3- Follow Me (Perception-Deep Learning)
 [Report/Writeup](https://github.com/ltstein/RoboND-DeepLearning-Project/blob/master/Deep-Learning-Writeup.md)
 [Repository](https://github.com/ltstein/RoboND-DeepLearning-Project)
 
-#### Term 2-In Progress ~September 2018
+#### Term 2-In Progress 
 Robotic Systems Deployment (Neural Network Training and Inference)
 [Report/Writeup](https://github.com/ltstein/Inference_Project/blob/master/Stein_inference_Report.pdf)  
 [Repository](https://github.com/ltstein/Inference_Project)
@@ -27,7 +27,7 @@ Where Am I? (Localization)
 
 Map My World (Simultaneous Localization and Mapping)
 Report/Writeup
-Repository
+[Repository](https://github.com/ltstein/RSEND_Slam_Project) 
 
 Pick and Place with Deep Learning (Deep Reinforcement Learning)
 Report/Writeup
@@ -43,21 +43,22 @@ Completed December 2016
 Project code and reports from Udacity's Machine Learning Nanodegree
 
 Project 1-Predicting Housing Prices in Boston (Modeling and Validation)
-[Report/Writeup](https://github.com/ltstein/machine-learning-nd/P1-Modeling_and_Validation/Boston_Report.pdf)
-[Repository](https://github.com/ltstein/machine-learning-nd/P1-Modeling_and_Validation)
+[Report/Writeup](https://github.com/ltstein/machine-learning-nd/blob/master/P1-Modeling_and_Validation/Submission%202/Boston%20Report.pdf)
+[Repository](https://github.com/ltstein/machine-learning-nd/tree/master/P1-Modeling_and_Validation)
 
 Project 2-Determining Student Intervention (Supervised Learning)
-[Ipython Notebook](https://github.com/ltstein/machine-learning-nd/P2-Supervised_Learning/P2_Stein/student_intervention_Stein.ipynb)
-[Repository](https://github.com/ltstein/machine-learning-nd/P2-Supervised_Learning)
+[Ipython Notebook](https://github.com/ltstein/machine-learning-nd/blob/master/P2-Supervised_Learning/P2_Stein/student_intervention_Stein.ipynb) 
+[Repository](https://github.com/ltstein/machine-learning-nd/tree/master/P2-Supervised_Learning)
 
 Project 3-Determining Customer Segments (Unsupervised Learning)
 [Ipython Notebook](https://github.com/ltstein/machine-learning-nd/P3-Unsupervised_Learning/P3_stein/customer_segments.html)
-[Repository](https://github.com/ltstein/machine-learning-nd/P3-Unsupervised_Learning)
+[Repository](https://github.com/ltstein/machine-learning-nd/tree/master/P3-Unsupervised_Learning)
 
 Project 4-Training a smartcab to drive (Reinforcement Learning)
-[Report/Writeup](https://github.com/ltstein/machine-learning-nd/P4-Reinforcement_Learning/Stein_Smartcab_Submisison/Smartcab_Project_Report.pdf)
-[Repository](https://github.com/ltstein/machine-learning-nd/P4-Reinforcement_Learning)
+[Report/Writeup](https://github.com/ltstein/machine-learning-nd/blob/master/P4-Reinforcement_Learning/Stein_Smartcab_Submisison/Smartcab_Project_Report.pdf)
+[Repository](https://github.com/ltstein/machine-learning-nd/tree/master/P4-Reinforcement_Learning)
+
 
 Capstone- Navigating a Maze (Robot Motion Planning)
-[Report/Writeup](https://github.com/ltstein/machine-learning-nd/Capstone-Robot_Motion_Planning/Plot_and_Navigate_a_Virtual_Maze-Capstone_Submission/Plot_and_Navigate_a_Virtual_Maze_Project_Report.pdf)
-[Repository](https://github.com/ltstein/machine-learning-nd/Capstone-Robot_Motion_Planning)
+[Report/Writeup](https://github.com/ltstein/machine-learning-nd/blob/master/Capstone-Robot_Motion_Planning/Plot_and_Navigate_a_Virtual_Maze-Capstone_Submission/Plot_and_Navigate_a_Virtual_Maze_Project_Report.pdf)
+[Repository](https://github.com/ltstein/machine-learning-nd/tree/master/Capstone-Robot_Motion_Planning)
