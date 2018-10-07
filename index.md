@@ -26,7 +26,7 @@ Where Am I? (Localization)
 [Repository](https://github.com/ltstein/RoboND-Localization-Project)
 
 Map My World (Simultaneous Localization and Mapping)
-Report/Writeup
+[Report/Writeup](https://github.com/ltstein/RSEND_Slam_Project/blob/master/Mapping_Project_Report/RSEND_Mapping_Project_Report.pdf)
 [Repository](https://github.com/ltstein/RSEND_Slam_Project) 
 
 Pick and Place with Deep Learning (Deep Reinforcement Learning)
