@@ -3,7 +3,7 @@ Find more about my experience and work related projects on [LinkedIn](https://ww
 # Project Portfolio
 
 ## [Udacity Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209)
-#### Term 1-Completed January 2018
+#### Term 1
 Project 1- Pick and Place (Kinematics)
 [Report/Writeup](https://github.com/ltstein/RoboND-Kinematics-Project/blob/master/Kinematics-Pick-and-Place-Writeup.md)
 [Repository](https://github.com/ltstein/RoboND-Kinematics-Project)
@@ -16,7 +16,7 @@ Project 3- Follow Me (Perception-Deep Learning)
 [Report/Writeup](https://github.com/ltstein/RoboND-DeepLearning-Project/blob/master/Deep-Learning-Writeup.md)
 [Repository](https://github.com/ltstein/RoboND-DeepLearning-Project)
 
-#### Term 2-In Progress 
+#### Term 2
 Robotic Systems Deployment (Neural Network Training and Inference)
 [Report/Writeup](https://github.com/ltstein/Inference_Project/blob/master/Stein_inference_Report.pdf)  
 [Repository](https://github.com/ltstein/Inference_Project)
@@ -30,12 +30,12 @@ Map My World (Simultaneous Localization and Mapping)
 [Repository](https://github.com/ltstein/RSEND_Slam_Project) 
 
 Pick and Place with Deep Learning (Deep Reinforcement Learning)
-Report/Writeup
-Repository
+[Report/Writeup](https://github.com/ltstein/RoboND-DeepRL-Project/blob/master/RSEND_Deep_RL_Arm_Report.pdf)
+[Repository](https://github.com/ltstein/RoboND-DeepRL-Project)
 
 Home Service Robot (Path Planning and Navigation)
-Report/Writeup
-Repository
+[Report/Writeup](https://github.com/ltstein/HomeService/blob/master/README.md)
+[Repository](https://github.com/ltstein/HomeService)
 
 
 ## [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
